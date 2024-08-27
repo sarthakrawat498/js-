@@ -1,2 +1,2 @@
 # js-
-Repo for javascript learning    
+Repo for javascript learning using youtube 
